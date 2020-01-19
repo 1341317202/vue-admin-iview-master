@@ -1,0 +1,7 @@
+{
+  "version": "0.0.0",
+  "DEVELOPMENT_HOST": "http://localhost:18080",
+  "PRODUCTION_HOST": ""
+}
+
+
